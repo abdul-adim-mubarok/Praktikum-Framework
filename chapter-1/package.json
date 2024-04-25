@@ -1,0 +1,19 @@
+{
+  "name": "chapter-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "dev": "npx nodemon main.js"
+  },
+  "keywords": [],
+  "author": "Abdul Adim Mubarok",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mariadb": "^3.3.0",
+    "nodemon": "^3.1.0"
+  }
+}
